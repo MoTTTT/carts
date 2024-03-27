@@ -3,7 +3,30 @@ entries:
   libretime:
   - apiVersion: v2
     appVersion: 4.0.0
-    created: "2024-03-27T02:07:56.198898Z"
+    created: "2024-03-27T17:05:53.668289Z"
+    description: A Helm chart for libretime 4.x.x
+    digest: dada22fb9a66f14c653b91bd0ded0cc4ed1d59158c5442defddf219b400202ae
+    home: https://github.com/MoTTTT/libretime-helm
+    keywords:
+    - libretime
+    - radio
+    - streaming
+    - icecast
+    - nginx
+    - rabbitmq
+    - postgres
+    maintainers:
+    - name: MoTTTT
+      url: github.com/MoTTTT
+    name: libretime
+    sources:
+    - https://github.com/libretime/libretime
+    urls:
+    - libretime-0.0.4.tgz
+    version: 0.0.4
+  - apiVersion: v2
+    appVersion: 4.0.0
+    created: "2024-03-27T17:05:53.667704Z"
     description: A Helm chart for libretime 4.x.x
     digest: cd7f1b2e7f30e131bddb7fbd61fb9fa5d16867b3710cfe01d66f1fdd42712d8d
     home: https://github.com/MoTTTT/libretime-helm
@@ -26,7 +49,7 @@ entries:
     version: 0.0.3
   - apiVersion: v2
     appVersion: 4.0.0
-    created: "2024-03-27T02:07:56.198314Z"
+    created: "2024-03-27T17:05:53.666939Z"
     description: A Helm chart for libretime 4.x.x
     digest: 6860e610bec8c9961637011470bd99785a3181786a674d091f953f177a5ace4d
     home: https://github.com/MoTTTT/libretime-helm
@@ -49,7 +72,7 @@ entries:
     version: 0.0.2
   - apiVersion: v2
     appVersion: 4.0.0
-    created: "2024-03-27T02:07:56.19762Z"
+    created: "2024-03-27T17:05:53.666157Z"
     description: A Helm chart for libretime 4.x.x
     digest: 6976e5d30285e6636cf07147fcd3fbcbfe5c0722e009434a32357558fb0d46f5
     home: https://github.com/MoTTTT/libretime-helm
@@ -73,7 +96,7 @@ entries:
   static-site:
   - apiVersion: v2
     appVersion: 2.0.0
-    created: "2024-03-27T02:07:56.200198Z"
+    created: "2024-03-27T17:05:53.66964Z"
     description: A Helm chart to maintain a static site from git, on secured Apache
     digest: 10462771536a02a9b10ee71cb3fdc880901753a4a5ed2ba590cd0b8cc50d74f1
     icon: https://musings.thruhere.net/images/QSolutionsApplications.svg
@@ -84,7 +107,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 2.0.0
-    created: "2024-03-27T02:07:56.199595Z"
+    created: "2024-03-27T17:05:53.669021Z"
     description: A Helm chart to maintain a static site from git, on secured Apache
     digest: 713047186a37de09f8ea5bb2350fa21b42d8b0cd5b5ef47b60d34647f6da4dd7
     icon: https://musings.thruhere.net/images/QSolutionsApplications.svg
@@ -93,4 +116,4 @@ entries:
     urls:
     - static-site-0.1.0.tgz
     version: 0.1.0
-generated: "2024-03-27T02:07:56.195952Z"
+generated: "2024-03-27T17:05:53.665134Z"
