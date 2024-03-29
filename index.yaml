@@ -3,9 +3,9 @@ entries:
   libretime:
   - apiVersion: v2
     appVersion: 4.0.0
-    created: "2024-03-28T16:02:00.736476Z"
-    description: A Helm chart for libretime 4.x.x
-    digest: 1a4a6ac339318e49a133c92b5451d8bd10a5834b31f57b75adb412e009a6de3e
+    created: "2024-03-29T03:40:10.912639Z"
+    description: A Helm chart for libretime
+    digest: 66acb580fa65a593d1554841791f36ea36f751df3f1ff7976937a2c64fd8534a
     home: https://github.com/MoTTTT/libretime-helm
     keywords:
     - libretime
@@ -22,12 +22,12 @@ entries:
     sources:
     - https://github.com/libretime/libretime
     urls:
-    - libretime-0.0.9.tgz
-    version: 0.0.9
+    - libretime-0.1.0.tgz
+    version: 0.1.0
   static-site:
   - apiVersion: v2
     appVersion: 2.0.0
-    created: "2024-03-28T16:02:00.737976Z"
+    created: "2024-03-29T03:40:10.913972Z"
     description: A Helm chart to maintain a static site from git, on secured Apache
     digest: 10462771536a02a9b10ee71cb3fdc880901753a4a5ed2ba590cd0b8cc50d74f1
     icon: https://musings.thruhere.net/images/QSolutionsApplications.svg
@@ -38,7 +38,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 2.0.0
-    created: "2024-03-28T16:02:00.73733Z"
+    created: "2024-03-29T03:40:10.913348Z"
     description: A Helm chart to maintain a static site from git, on secured Apache
     digest: 713047186a37de09f8ea5bb2350fa21b42d8b0cd5b5ef47b60d34647f6da4dd7
     icon: https://musings.thruhere.net/images/QSolutionsApplications.svg
@@ -47,4 +47,4 @@ entries:
     urls:
     - static-site-0.1.0.tgz
     version: 0.1.0
-generated: "2024-03-28T16:02:00.735531Z"
+generated: "2024-03-29T03:40:10.911158Z"
